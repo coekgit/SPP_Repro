@@ -1,2 +1,6 @@
 # SPP_Repro
- Matlab code for Sparsity preserving projections
+Matlab implementation of the SPP_Reop
+
+
+# Demo
+Run 'demo_SPP.m' to see the provided example of YaleB dataset.
